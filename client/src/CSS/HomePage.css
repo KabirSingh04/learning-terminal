@@ -1,0 +1,107 @@
+.auth-button {
+  background-color: #3b4252;
+  color: white;
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 700;
+  border: none;
+  outline: none;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 13px;
+  margin-top: 2rem;
+  cursor: pointer;
+  margin: 10px;
+}
+.heading{
+  padding-top: 2%;
+}
+.bash-button{
+  background-color: #3b4252;
+  color: white !important;
+  width: 200px;
+  justify-content: center;
+  height: 50px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 700;
+  border: none;
+  outline: none;
+  border-radius: 3px;
+  display: flex;
+  padding-top: 13px;
+  margin-top: 2rem;
+  margin: 10px;
+  padding-left:2%;
+  text-decoration: none;
+}
+.bash{
+  padding-left:34%;
+  padding-top: 6%;
+  text-decoration: none;
+
+}
+.bash-link{
+  text-decoration: none;
+  color: white !important;
+  font-family: 'Rubik', sans-serif;
+
+  
+
+}
+
+.button-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  text-decoration: none;
+}
+
+Link {
+  text-decoration: none;
+}
+
+.basic-info{
+  background-color:#81A1C1;
+  color:#ECEFF4;
+  padding:3%;
+  margin:4%;
+  font-weight:bold;
+  font-size:18px;
+
+}
+hr{
+  background-color:#3B4252;
+  height:3px;
+}
+.bash-info{
+  width: 50%;
+  height: 450px;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: 12%;
+  float:right;
+  text-align: center;
+  font-size:26px;
+
+}
+.bash-heading{
+  padding-top: 3%;
+  width: 50%;
+  padding-left:46%;
+  color:#3B4252;
+
+}
+.bash-img{
+  object-fit:contain;
+  height:600px;
+  width:700px;
+  padding-left:3%;
+}
+.heading{
+  color:#3B4252;
+}
